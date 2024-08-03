@@ -38,5 +38,10 @@ dd if=/sdcard/autoboot/boot_patched_autoboot.img of=/dev/block/bootdevice/by-nam
 ### Done
 Power off your device and connect it to a charger or USB. Your device should boot automatically.
 
+### Tested
+- Redmi 4x
+- Redmi Note 4
+- soon
+
 ### Credits
 https://github.com/anasfanani/magisk-autoboot
