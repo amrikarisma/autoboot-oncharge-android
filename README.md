@@ -1,4 +1,4 @@
-# autoboot-oncharge-android
+# Autoboot On Charge for Android
 How to enable automatic booting of your Android device when it's connected to a charger or USB.
 ### Patch & Flash
 Connect to ADB shell and run the following commands:
