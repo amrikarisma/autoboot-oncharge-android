@@ -44,4 +44,5 @@ Power off your device and connect it to a charger or USB. Your device should boo
 - soon
 
 ### Credits
-https://github.com/anasfanani/magisk-autoboot
+- https://github.com/anasfanani/magisk-autoboot
+- https://xdaforums.com/t/module-magisk-autoboot-auto-power-on-android-when-charger-connected.4645951/
