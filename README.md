@@ -6,7 +6,7 @@ How to enable automatic booting of your Android device when it's connected to a 
 - Backup boot.img before start
 
 ### Patch & Flash
-Connect to ADB shell and run the following commands:
+Boot into TWRP recovery and connect your device to your computer, connect to ADB shell and run the following commands:
 ```
 mkdir /sdcard/autoboot
 dd if=/dev/block/bootdevice/by-name/boot of=/sdcard/autoboot/boot.img
